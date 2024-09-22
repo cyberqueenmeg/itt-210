@@ -1,0 +1,14 @@
+﻿  9.20.asm
+C:\Users\cyberqueenmeg\Desktop\9.20\9.20.asm(1,1): error C2059: syntax error: 'constant'
+C:\Users\cyberqueenmeg\Desktop\9.20\9.20.asm(9,3): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\cyberqueenmeg\Desktop\9.20\9.20.asm(9,8): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\cyberqueenmeg\Desktop\9.20\9.20.asm(9,3): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\cyberqueenmeg\Desktop\9.20\9.20.asm(9,8): error C2146: syntax error: missing ';' before identifier 'current'
+C:\Users\cyberqueenmeg\Desktop\9.20\9.20.asm(10,3): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\cyberqueenmeg\Desktop\9.20\9.20.asm(10,11): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\cyberqueenmeg\Desktop\9.20\9.20.asm(10,3): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\cyberqueenmeg\Desktop\9.20\9.20.asm(10,11): error C2146: syntax error: missing ';' before identifier 'start'
+C:\Users\cyberqueenmeg\Desktop\9.20\9.20.asm(11,3): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\cyberqueenmeg\Desktop\9.20\9.20.asm(11,11): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\cyberqueenmeg\Desktop\9.20\9.20.asm(11,3): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\cyberqueenmeg\Desktop\9.20\9.20.asm(11,11): error C2146: syntax error: missing ';' before identifier 'size'
